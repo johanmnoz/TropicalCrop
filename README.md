@@ -1,2 +1,0 @@
-# TropicalCrop
-proyecto de autocad
